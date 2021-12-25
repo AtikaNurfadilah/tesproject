@@ -11,7 +11,7 @@
      glEnable(GL_NORMALIZE); //Automatically normalize normals
      glShadeModel(GL_SMOOTH); //Enable smooth shadinggg
     }
-
+//randommmm
     //Called when the window is resized
     void handleResize(int w, int h) {
      glMatrixMode(GL_PROJECTION);

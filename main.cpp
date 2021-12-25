@@ -4,7 +4,7 @@
     //Initializes 3D rendering (memberikan inisialisai 3D)
     void initRendering() {
      glEnable(GL_DEPTH_TEST); //metode hidden_surface removal untuk mengatur sudut pandang kapan suatu objek tertutup dengan objek lain
-     glEnable(GL_COLOR_MATERIAL); //warnaaaa
+     glEnable(GL_COLOR_MATERIAL); //memberikan warnaaaa
      glEnable(GL_LIGHTING); //Enable lighting
      glEnable(GL_LIGHT0); //Enable light #0
      glEnable(GL_LIGHT1); //Enable light #1

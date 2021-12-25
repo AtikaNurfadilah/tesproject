@@ -141,7 +141,7 @@
      glVertex3f(2.0f, 3.5f, -2.0f);
      glVertex3f(2.0f, 3.5f, -1.8f);
      glVertex3f(2.0f, 0.2f, -1.8f);
-    //atas
+    //atass
      glVertex3f(-1.8f, 3.5f, -2.0f);
      glVertex3f(-1.8f, 3.5f, -1.8f);
      glVertex3f(1.8f, 3.5f, -1.8f);

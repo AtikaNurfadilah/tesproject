@@ -9,9 +9,13 @@
      glEnable(GL_LIGHT0); //Enable light #0
      glEnable(GL_LIGHT1); //Enable light #1
      glEnable(GL_NORMALIZE); //Automatically normalize normals
-     glShadeModel(GL_SMOOTH); //Enable smooth shading
+     glShadeModel(GL_SMOOTH); //Enable smooth shadinggg bayangannn
     }
+<<<<<<< HEAD
     //testes
+=======
+//randommmm
+>>>>>>> 05aa45bbaa3c6ea65677b7cd2311af238e22b55d
     //Called when the window is resized
     void handleResize(int w, int h) {
      glMatrixMode(GL_PROJECTION);
@@ -141,7 +145,7 @@
      glVertex3f(2.0f, 3.5f, -2.0f);
      glVertex3f(2.0f, 3.5f, -1.8f);
      glVertex3f(2.0f, 0.2f, -1.8f);
-    //atas
+    //atass
      glVertex3f(-1.8f, 3.5f, -2.0f);
      glVertex3f(-1.8f, 3.5f, -1.8f);
      glVertex3f(1.8f, 3.5f, -1.8f);

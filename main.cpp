@@ -12,7 +12,7 @@
      glShadeModel(GL_SMOOTH); //Enable smooth shadinggg bayangannn
     }
 <<<<<<< HEAD
-    //testes
+    //testes eeeeee
 =======
 //randommmm
 >>>>>>> 05aa45bbaa3c6ea65677b7cd2311af238e22b55d
